@@ -1,4 +1,4 @@
-# Phonepe-project-guvi-
+# Phonepe-Pulse-Data Visualization & Exploration-project-guvi-
 Phonepe Data Visualization project 
 
 This project aims to visualize data collected from PhonePe, a popular digital payments platform, using Streamlit, a powerful Python library for creating web applications with minimal effort.
